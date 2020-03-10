@@ -21,4 +21,8 @@ def condition=(condition)
   @condition = condition 
 end 
 
+def cobble 
+  
+end 
+
 end 
