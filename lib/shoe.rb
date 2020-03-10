@@ -13,8 +13,8 @@ end
 def size=(size)
   @size = size
 end 
-def size=(size)
-  @size = size
+def material=(material)
+  @material = material
 end 
 
 
