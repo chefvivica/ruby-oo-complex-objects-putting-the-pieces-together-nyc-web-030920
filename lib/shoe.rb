@@ -19,10 +19,16 @@ end
 
 def condition=(condition)
   @condition = condition 
+  if cobble 
+    condition == "new"
+  else 
+    condition == "old"
+  end 
 end 
 
 def cobble 
   puts "Your shoe is as good as new!"
 end 
+
 
 end 
