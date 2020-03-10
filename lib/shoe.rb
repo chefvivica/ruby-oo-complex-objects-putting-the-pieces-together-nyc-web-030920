@@ -22,7 +22,7 @@ def condition=(condition)
 end 
 
 def cobble 
-  puts "the shoes has been repaired"
+  puts "Your is as good as new!"
 end 
 
 end 
